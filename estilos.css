@@ -125,6 +125,26 @@
     .header h4{
         margin: 0;
     }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+    form {
+        padding: 20px;
+    }
+}
+
+form{
+    margin: 185px;
+    width: 800px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    
+    h1{
+        color: #d28574;
+        text-align: center;
+        padding: 10px;
+    }
 }
 
 .bg{
