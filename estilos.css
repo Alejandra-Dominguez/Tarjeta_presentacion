@@ -81,3 +81,27 @@
     padding: 0 15px;
     color: #6f646c;
 }
+
+.boton-container {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.boton-container a {
+    text-decoration: none;
+}
+
+.boton-container .btn {
+    padding: 10px 10px;
+    font-size: 14px;
+    color: #6f646c;
+    background-color: #f8e6c6; 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.boton-container .btn:hover {
+    background-color: #e9deb0; 
+}
