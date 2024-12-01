@@ -105,3 +105,25 @@
 .boton-container .btn:hover {
     background-color: #e9deb0; 
 }
+
+.bg{
+    background-color: #f8e6c6;
+}
+
+.btn-primary{
+    background-color: #ee9c92;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #fe857e;
+}
+
+.btn-secondary{
+    background-color: #ee9c92;
+    border: none;
+}
+
+.btn-secondary:hover {
+    background-color: #fe857e;
+}
