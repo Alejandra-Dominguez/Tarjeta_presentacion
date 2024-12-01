@@ -106,6 +106,27 @@
     background-color: #e9deb0; 
 }
 
+@media (max-width:640px){
+    .tarjeta-contedor{
+        display: block;
+        width: 450px;
+    }
+
+    .header{
+        padding: 20px 20px 5px 20px;
+        border: none;
+    }
+
+    .informacion{
+        padding: 5px 20px 20px 20px;
+        background: transparent;
+    }
+
+    .header h4{
+        margin: 0;
+    }
+}
+
 .bg{
     background-color: #f8e6c6;
 }
